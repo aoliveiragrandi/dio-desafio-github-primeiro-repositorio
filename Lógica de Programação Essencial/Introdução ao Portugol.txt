@@ -1,0 +1,23 @@
+# PORTUGOL STUDIO
+
+Uma ferramenta para aprender programação.
+
+Recursos
+
+Interface Didática
+A tela inicial foi projetada para permitir rápido acesso às principais funcionalidades do ambiente
+
+Sistema de ajuda
+O sistema de ajuda navegável e os demais materiais de apoio facilitam o aprendizado da ferramenta
+
+Arvore Estrutural
+A árvore estrutural permite identificar e compreender os elementos que compõem o programa escrito
+
+Editor de Código
+O editor possui destaque de sintaxe, conclusão de código (para bibliotecas), suporte a temas e dobramento de código
+
+Depurador
+O depurador permite executar o programa passo a passo
+
+Suporte à Jogos
+As bibliotecas do Portugol Studio permitem escrever programas mais complexos incluindo jogos com interface gráfica
