@@ -1,0 +1,2 @@
+https://git-scm.com/download/win
+O Git Bash é um ternal extendio para otimizar o uso do Git.
